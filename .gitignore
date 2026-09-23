@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables (Compiled binaries)
+*.exe
+*.out
+*.app
+
+# Build directories
+[Bb]uild/
+[Bb]uild-*/
+x64/
+x86/
+
+# CMake generated files and directories
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
